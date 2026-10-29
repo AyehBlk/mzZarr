@@ -28,14 +28,10 @@ mzZarr is a proposed format and is not formally endorsed by HUPO-PSI.
 
 Independent cross-language interoperability has not yet been demonstrated.
 
-## Provenance
+## Version and integrity
 
-The specification was frozen in the private PTERO development repository at commit:
+mzZarr v1.0 was frozen on 29 October 2026. The versioned specification is available in this repository under the `v1.0` Git tag.
 
-`0aa99329f5dfbe4b6fe4cd78955f92b2c66247e4`
-
-The SHA-256 hash of the frozen `SPECIFICATION.md` is:
+The SHA-256 checksum of `SPECIFICATION.md` is:
 
 `9A6A5572B028B9DA4B6D40817D4D8448E15F8DF0EFCA00E6232BC6A2CC3C9F1D`
-
-This public repository contains the format specification, not the private PTERO source code.
